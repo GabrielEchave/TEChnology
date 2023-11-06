@@ -24,6 +24,5 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor-white" alt="" width="115" height="65"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expres.js&logoColor-black" alt="" width="115" height="65"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor-white" alt="" width="115" height="65"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor-white" alt="" width="115" height="65"/>
 </p>
 <h3 aling="center">Correo: echavegabi@gmail.com</h3>
