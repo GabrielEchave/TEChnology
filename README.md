@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Gabriel Echave</h1>
-**Sobre mi
+<h2 align="center">Sobre mi</h2>
 
 <div>
-<p>*Estudiante de la tecnicatura en programacion de la UTN</p>
+<p>*Estudiante de Programación en la Universidad Tecnologica Nacional (UTN) - Facultad Regional San Rafael, Argentina</p>
 <p>* Reforzar conocimientos basados en la programacion.</p>
 <p>* Investigar distintos lenguajes de programacion</p>
 <p>* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.</p>
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor-black" alt="" width="115" height="65"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor-white" alt="" width="105" height="65"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor-white" alt="" width="105" height="65"/>
+  <img src="https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=python&logoColor-white" alt="" width="115" height="65"/>
 </p>
 <h3 align="center" >Lenguajes de programacion de los que tengo menor conocimiento </h3>
 <p> 
